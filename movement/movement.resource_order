@@ -8,6 +8,7 @@
   ],
   "ResourceOrderSettings":[
     {"name":"Obj_player","order":1,"path":"objects/Obj_player/Obj_player.yy",},
+    {"name":"Obj_player2","order":10,"path":"objects/Obj_player2/Obj_player2.yy",},
     {"name":"Object4","order":9,"path":"objects/Object4/Object4.yy",},
     {"name":"Object9","order":7,"path":"objects/Object9/Object9.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},

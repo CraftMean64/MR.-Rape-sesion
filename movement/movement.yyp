@@ -26,6 +26,7 @@
   "name":"movement",
   "resources":[
     {"id":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},},
+    {"id":{"name":"Obj_player2","path":"objects/Obj_player2/Obj_player2.yy",},},
     {"id":{"name":"Obj_wall","path":"objects/Obj_wall/Obj_wall.yy",},},
     {"id":{"name":"Object4","path":"objects/Object4/Object4.yy",},},
     {"id":{"name":"Object9","path":"objects/Object9/Object9.yy",},},
