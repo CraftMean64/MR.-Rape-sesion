@@ -1,0 +1,1 @@
+room_goto(rm_main); // tu daj tvoju hlavnú logo
